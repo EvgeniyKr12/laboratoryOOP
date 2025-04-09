@@ -1,0 +1,11 @@
+# Xcode
+.DS_Store
+*/build/*
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# C++ 
+*.o
+*.out
+*.dSYM
